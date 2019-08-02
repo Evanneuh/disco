@@ -1,0 +1,14 @@
+build/
+dist/
+disco*.egg-info/
+storage.db
+storage.json
+*.dca
+.eggs/
+.cache/
+
+# Documentation stuff
+docs/api/
+docs/_build
+_book/
+node_modules/
